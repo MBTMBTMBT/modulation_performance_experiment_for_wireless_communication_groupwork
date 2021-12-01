@@ -1,5 +1,6 @@
 ### Experiment for Wireless Communication Case Study
-#### (Comparison between different digital modulation methods)
+#### Comparison between different digital modulation methods
+
 ------
 __Author: Benteng Ma__
 Dec.1st, 2021
